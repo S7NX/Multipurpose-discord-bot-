@@ -155,5 +155,4 @@ That's why I'm asking everyone to [**donate a little bit of money**](https://don
 > If you want to help improve the Bot code, fix spelling or design Errors or if possible even code errors, you may create PULL REQUESTS.
 > Please consider, that [**Tomato6966**](https://github.com/Tomato6966) is the main Developer of this Bot, everyone else helped just once or sometimes more often.
 > Thanks to any1 who considers helping me!
-#   M u l t i p u r p o s e - d i s c o r d - b o t -  
- 
+#
